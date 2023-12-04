@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "eMag.AzureFunctions": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7060",
+      "launchBrowser": false
+    }
+  }
+}
